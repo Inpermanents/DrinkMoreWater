@@ -4,7 +4,7 @@
 * 采用 pywin32 实现检测全屏状态
 
 ### **使用说明**
-* [下载](https://gitee.com/inpermanent/drink-more-water/releases/tag/v1.0-DrinkMoreWater)并解压后通过打开目录下 DrinkMoreWater.exe 来启动程序
+* [下载](https://github.com/Inpermanents/DrinkMoreWater/releases)并解压后通过打开目录下 DrinkMoreWater.exe 来启动程序
 
 ### **其他事项**
 * 开发环境
